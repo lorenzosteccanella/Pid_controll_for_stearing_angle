@@ -1,5 +1,5 @@
 # Controls-PID
-PID for stearing angle Self Driving Car
+PID for steering angle Self Driving Car
 
 ---
 
